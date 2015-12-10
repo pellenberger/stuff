@@ -1,0 +1,5 @@
+SetEnv PHP_VER 5
+AuthName "Veuillez vous authentifier"
+AuthType Basic
+AuthUserFile "/homez.640/laserabl/www/admin/.htpasswd"
+Require valid-user
